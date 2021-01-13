@@ -6,10 +6,15 @@
 Welcome to sample's documentation!
 ==================================
 
+This is a test to check autoapi working with non trivial source folders
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents:
+   
+   scripting
 
 
 
